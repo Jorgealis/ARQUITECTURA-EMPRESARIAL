@@ -1,7 +1,7 @@
 # 🗒️ Registro de Trabajo en Clase - Taller X
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+7 a 10 AM - Sábado 1 de agostp de 2026.
 
 ## 👥 Integrantes presentes
 - Brayan Presiga
@@ -55,6 +55,7 @@ Describa brevemente qué se hizo durante la sesión:
 
 ## 🧩 Boceto inicial del modelo
 
+<img width="762" height="452" alt="Taller 1 - Arquitectura Empresarial drawio" src="Taller 1 - BPMN.drawio.png" />
 
 
 ## 🔁 Tareas definidas para complementar el taller
