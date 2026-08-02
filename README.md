@@ -1,4 +1,9 @@
-# 🛠️ Taller 1: Modelado de Proceso del Cliente con BPMN
+# Desarrollo del Taller 1: Modelado de Proceso del Cliente con BPMN - SOLO parte 1
+La explicación de esta parte se encuentra en el archivo Markdown [Notas](clase/notas.md) y el diagrama en [Diagrama](clase/Taller 1 - BPNM.draw.png)
+
+# Contexto:
+
+##🛠️ Taller 1: Modelado de Proceso del Cliente con BPMN
 
 ## 🎯 Objetivo
 
