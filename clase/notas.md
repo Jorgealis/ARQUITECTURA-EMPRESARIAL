@@ -1,4 +1,4 @@
-# 🗒️ Registro de Trabajo en Clase -  Taller 1: Modelado de Proceso del Cliente con BPMN ""Parte 1 (Clínica Salud Viva)""
+# 🗒️ Registro de Trabajo en Clase -  Taller 1: Modelado de Proceso del Cliente con BPMN "Parte 1 (Clínica Salud Viva)"
 
 ## 📆 Fecha de la sesión
 7 a 10 AM - Sábado 1 de agosto de 2026.
