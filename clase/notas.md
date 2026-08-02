@@ -55,7 +55,7 @@ Describa brevemente qué se hizo durante la sesión:
 
 ## 🧩 Boceto inicial del modelo
 
-<img width="762" height="452" alt="Taller 1 - Arquitectura Empresarial drawio" src="Taller 1 - BPMN.drawio.png" />
+<img width="762" height="452" alt="Taller 1 - Arquitectura Empresarial drawio" src="Taller1-BPMN.drawio.png" />
 
 
 ## 🔁 Tareas definidas para complementar el taller
