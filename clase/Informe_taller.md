@@ -37,9 +37,8 @@ El diagrama responde a la necesidad del cliente de automatizar y agilizar el age
 - Se asume una única base de datos compartida entre las tareas de "comprobar disponibilidad" y "guardar información", sin representar explícitamente el almacén de datos como objeto de datos BPMN.
 
 ## 📈 Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
 
-![Diagrama BPMN del proceso de agendamiento de citas médicas](diagrama.png)
+![Diagrama BPMN del proceso de agendamiento de citas médicas](clase/Taller1-BPMN.drawio.png)
 
 *Figura 1. Diagrama BPMN del proceso de agendamiento de citas médicas (carriles: Paciente / Sistema de agendamiento).*
 
