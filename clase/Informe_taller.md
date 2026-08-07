@@ -38,7 +38,7 @@ El diagrama responde a la necesidad del cliente de automatizar y agilizar el age
 
 ## 📈 Diagrama final entregado
 
-![Diagrama BPMN del proceso de agendamiento de citas médicas](clase/Taller1-BPMN.drawio.png)
+![Diagrama BPMN del proceso de agendamiento de citas médicas](ARQUITECTURA-EMPRESARIAL/clase/Taller1-BPMN.drawio.png)
 
 *Figura 1. Diagrama BPMN del proceso de agendamiento de citas médicas (carriles: Paciente / Sistema de agendamiento).*
 
